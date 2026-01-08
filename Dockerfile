@@ -1,1 +1,1 @@
-FROM quay.io/wekan/wekan:v7.88
+FROM quay.io/wekan/wekan:v8.19
